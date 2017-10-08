@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Anton'), url(fontdata/o-91-t7-bPc7W26HmS2N4Q.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Katibeh';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Katibeh-Regular'), url(fontdata/bnd6cVSZD_i2LRX_s0dDYg.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Lalezar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lalezar'), local('Lalezar-Regular'), url(fontdata/1DAOO6BooPMSJrLlr2uLug.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lobster'), local('Lobster-Regular'), url(fontdata/cycBf3mfbGkh66G5NhszPQ.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url(fontdata/ATKpv8nLYAKUYexo8iqqrg.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Pattaya';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Pattaya'), local('Pattaya-Regular'), url(fontdata/ILYF4XO5YBCnja202_E8SQ.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Poiret One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poiret One'), local('PoiretOne-Regular'), url(fontdata/HrI4ZJpJ3Fh0wa5ofYMK8fk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(fontdata/0dTEPzkLWceF7z0koJaX1A.woff2) format('woff2');
+}
